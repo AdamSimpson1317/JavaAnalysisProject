@@ -1,0 +1,48 @@
+Insert Test: 
+Average: 5394.0
+Best: 618
+Worst: 67710
+Lookup Test: 
+Average: 10344.0
+Best: 2473
+Worst: 117488
+Delete Surname Test: 
+Average: 14176.0
+Best: 0
+Worst: 161700
+Delete Extension Test: 
+Average: 15146.0
+Best: 0
+Worst: 316908
+Insert Test: 
+Average: 222.0
+Best: 0
+Worst: 16386
+Lookup Test: 
+Average: 15230.0
+Best: 2473
+Worst: 143459
+Delete Surname Test: 
+Average: 11947.0
+Best: 0
+Worst: 112850
+Delete Extension Test: 
+Average: 12867.0
+Best: 0
+Worst: 165411
+Insert Test: 
+Average: 5610.0
+Best: 0
+Worst: 4983039
+Lookup Test: 
+Average: 175.0
+Best: 0
+Worst: 15459
+Delete Surname Test: 
+Average: 517.0
+Best: 0
+Worst: 31227
+Delete Extension Test: 
+Average: 297.0
+Best: 0
+Worst: 18242
